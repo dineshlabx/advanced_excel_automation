@@ -34,8 +34,11 @@ python excel\_automation.py
 # Output
 
 processed\_sales.xlsx
+----------------------------------------------------------------
 
-
-Author
+# Author
 Dinesh Pandiyan B
+----------------------------------------------------------------
 
+# License
+This project is open-source and available under the MIT License.
