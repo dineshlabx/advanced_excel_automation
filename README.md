@@ -1,56 +1,41 @@
-# \# Advanced Excel Automation using Python
+# Advanced Excel Automation using Python
 
-# 
+This project demonstrates how to automate Excel data cleaning,
 
-# This project demonstrates how to automate Excel data cleaning,
+calculation, and reporting using Python and Pandas.
 
-# calculation, and reporting using Python and Pandas.
+# Project Features
 
-# 
+Reads multi-sheet Excel data
 
-# \## Project Features
+Handles missing values
 
-# \- Reads multi-sheet Excel data
+Calculates sales, discounts, and profit
 
-# \- Handles missing values
+Generates automated Excel reports
 
-# \- Calculates sales, discounts, and profit
+Creates region-wise summary
 
-# \- Generates automated Excel reports
+# Technologies Used
+Python
+Pandas
+Excel
 
-# \- Creates region-wise summary
+# How to Run
 
-# 
+Install dependencies:
 
-# \## Technologies Used
+pip install -r requirements.txt
 
-# \- Python
+# Run the script:
 
-# \- Pandas
+python excel\_automation.py
 
-# \- Excel
+# Output
 
-# 
+processed\_sales.xlsx
 
-# \## How to Run
 
-# 1\. Install dependencies:
-
-# &nbsp;  pip install -r requirements.txt
-
-# 2\. Run the script:
-
-# &nbsp;  python excel\_automation.py
-
-# 
-
-# \## Output
-
-# processed\_sales.xlsx
-
-# 
-
-# \## Author
-
-# Dinesh Pandiyan B
+Author
+Dinesh Pandiyan B
 
